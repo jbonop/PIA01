@@ -5,7 +5,7 @@
 </head>
 
 <body>
-  <p>Tarea para PIA01</p>
+  <p>Tarea para PIA01. Consiste en un sencillo programa en Phyton que imprime por pantalla "Hola Mundo"</p>
 </body>
 
 </html>
